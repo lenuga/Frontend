@@ -1,0 +1,28 @@
+/* 
+.error-template {
+    padding:40pxm15px;
+    text-align: center;
+}
+.error-actions {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn {
+    margin-right:10px;
+}
+
+:root {
+    --mainDark: #343a40;
+    --mainGrey: rgba(109, 109, 109);
+    --mainLightGrey: rgba(172, 172, 172);
+    --mainWhite: #fff;
+    --mainBlue: #007bff;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-toggler {
+    border: none;
+} */
